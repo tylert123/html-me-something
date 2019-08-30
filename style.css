@@ -1,0 +1,64 @@
+h1, h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#navigate {
+    display: grid;
+    justify-content: center;
+}
+
+h2 {
+    margin-bottom: -10px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border: 0;
+}
+
+a {
+    font-size: 24px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+ul {
+    display: flex;
+    justify-content: right;
+}
+
+img {
+    padding: 5px;
+    border-radius: 15px;
+}
+
+li {
+    margin: 15px;
+}
+
+body {
+    background-color: wheat;
+    margin: 10px;
+}
+
+.place {
+    display: grid;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
